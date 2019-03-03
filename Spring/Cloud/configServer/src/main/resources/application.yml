@@ -1,0 +1,8 @@
+spring:
+   cloud:
+      config:
+        server:
+           git:
+             uri: C:\Users\Rony\git\springCloud
+server: 
+  port: 9999
